@@ -1,1 +1,1 @@
-# angular2rc-webpack-workshop
+# movie-review-app
